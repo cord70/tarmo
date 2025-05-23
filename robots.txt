@@ -1,3 +1,0 @@
-User-Agent: *
-Disallow: *
-Host: https://cord70.github.io/tarmo

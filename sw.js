@@ -15,7 +15,7 @@ var filesToCache = [
     '/sw.js',
     '/favicon.ico',
     '/favicon.svg',
-    'apple-touch-icon.png',
+    '/apple-touch-icon.png',
     '/favicon512.png',
 
 // ссылки первой страницы

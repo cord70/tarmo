@@ -1,4 +1,4 @@
-//cord70.github.io/tarmo
+// cord70.github.io/tarmo
 
 //var googlecounter='UA-9493768-5';
 var googlecounter='G-R0FRG6NEF1';
@@ -20,7 +20,7 @@ function topmenu() {
 }
 
 
-//photo-ek.ru cyber-ek.ru cord70.github.io/tarmo 
+// cord70.github.io/photo cord70.github.io/cyber cord70.github.io/tarmo 
 
 // lazy counters
 var scrolldone = false;

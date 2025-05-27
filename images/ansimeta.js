@@ -38,7 +38,7 @@ function onLazyScroll() {
             s.src = 'https://www.googletagmanager.com/gtag/js?id=' + googlecounter;
             s.async = true;
             document.body.appendChild(s);
-        }, 500); // 500ms после scroll
+        }, 200); // 200ms после scroll
     }
 }
 addScrollEvent(onLazyScroll);

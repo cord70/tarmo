@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="ru">
  <head>
+
+   <script type="text/javascript"> 
+     // переход с адреса ../ на ../index.html
+     var thispage="tarmo";
+     url=   window.location.href;     
+     if(url.endsWith(thispage)) {url=url+"/index.html";  window.location.href = url; }
+     if(url.endsWith(thispage+"/")) {url=url+"index.html";  window.location.href = url; }
+   </script>
+
   <meta charset="utf-8">
   <title> Архив форума Механизмы сознания </title>
   <!-- cord70.github.io/tarmo -->
